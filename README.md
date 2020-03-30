@@ -1,5 +1,5 @@
 # fab-lab---tracking-coronavirus
-Proyecto de la compañia Fab Lab - tracking coronavirus de Bolivia. Contiene guias, papers, referencia a otros proyectos.
+Proyecto de la Red Fab Lab - tracking coronavirus de Bolivia. Contiene guias, papers, referencia a otros proyectos.
 
 Para mas información siga el enlace:
 
